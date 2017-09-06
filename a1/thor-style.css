@@ -1,0 +1,87 @@
+      body{
+        background: url(./resources/marbled-background.jpg); 
+        background-size: cover;
+      }
+
+      h1{
+        color: white;
+        font-family: "Times New Roman", Times, serif;
+        font-weight: 100;
+        font-size: 60px;
+        margin: 0px;
+      }
+
+      h2{
+        color: #cdeb8e;
+        font-family: "Times New Roman", Times, serif;
+        font-weight: 100;
+        font-size: 36px;
+        margin: 0px;
+      }
+
+      img{
+        display: block;
+        margin: auto;
+        height: 400px;
+        width: 400px;
+        border: 10px solid white;
+        border-radius: 50%;
+        border-color: white;
+      }
+
+      .navbar{
+        overflow: hidden;
+        background-color: #333333;
+        position: fixed; 
+        top: 0; 
+  
+      }
+
+      .navbar a:hover{
+        margin-top: 5px;
+      }
+
+      .navbar a {
+        float: left;
+        display: block;
+        color: #cdeb8e;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+
+
+      }
+      .navbar ul {
+        list-style-type: none;
+        margin: 0;
+        text-align: center;
+        padding:0;
+      }
+
+      p{
+        color: white;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 18px;
+        font-weight: 200;
+      }
+
+      #pageOneSubHeading{
+        font-size: 26px;
+      }
+
+      .box{
+        background-color: rgba(0,0,0,0.5);
+        padding: 20px;
+        width: 300px;
+        margin: 100px auto;
+        margin-top: 60px;
+        text-align: center;
+      }
+
+      .box1{
+        background-color: rgba(0,0,0,0.5);
+        padding: 20px;
+        width: 600px;
+        margin: 100px auto;
+        text-align: center;      
+      }
