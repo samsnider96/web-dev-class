@@ -34,7 +34,6 @@
         background-color: #333333;
         position: fixed; 
         top: 0; 
-  
       }
 
       .navbar a:hover{
@@ -51,6 +50,7 @@
 
 
       }
+      
       .navbar ul {
         list-style-type: none;
         margin: 0;
